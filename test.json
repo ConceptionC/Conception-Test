@@ -34,6 +34,23 @@
           {
             "type": "button",
             "action": {
+              "type": "message",
+              "label": "分享給好友",
+              "text": "點擊分享出去"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "postback",
+              "label": "分享給好友",
+              "data": "hello",
+              "displayText": "點擊分享"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
               "type": "uri",
               "label": "聯絡電話",
               "uri": "tel:+886905870119"
