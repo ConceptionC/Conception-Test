@@ -193,9 +193,9 @@
           {
             "type": "button",
             "action": {
-              "type": "uri",
-              "label": "分享給好友",
-              "uri": "https://lin.ee/rRBj9MV"
+              "type": "message",
+              "label": "action",
+              "text": "hello"
             },
             "style": "primary",
             "color": "#AD5A5A",
